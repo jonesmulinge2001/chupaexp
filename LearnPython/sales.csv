@@ -1,0 +1,21 @@
+Transaction_ID,Date,Customer_Name,Region,Product_Category,Product,Quantity,Unit_Price,Total_Amount,Payment_Method
+TXN-1001,2026-01-05,Alice Johnson,North,Electronics,Wireless Headphones,2,149.99,299.98,Credit Card
+TXN-1002,2026-01-07,Bob Smith,South,Office Supplies,Ergonomic Chair,1,249.5,249.5,PayPal
+TXN-1003,2026-01-10,Charlie Brown,East,Electronics,Smart Watch,1,199.99,199.99,Credit Card
+TXN-1004,2026-01-12,Diana Prince,West,Furniture,Standing Desk,1,450.0,450.0,Bank Transfer
+TXN-1005,2026-01-15,Ethan Hunt,North,Electronics,4K Monitor,2,329.0,658.0,Credit Card
+TXN-1006,2026-01-18,Fiona Gallagher,South,Office Supplies,Mechanical Keyboard,3,85.0,255.0,Debit Card
+TXN-1007,2026-01-20,George Clark,East,Electronics,USB-C Hub,5,29.99,149.95,PayPal
+TXN-1008,2026-01-22,Hannah Abbott,West,Furniture,Bookshelf,1,120.0,120.0,Credit Card
+TXN-1009,2026-01-25,Ian Malcolm,North,Electronics,Noise Cancelling Earbuds,1,129.5,129.5,Apple Pay
+TXN-1010,2026-01-28,Julia Roberts,South,Office Supplies,Desk Pad,4,18.5,74.0,Credit Card
+TXN-1011,2026-02-01,Kevin Bacon,East,Electronics,HD Webcam,2,69.99,139.98,PayPal
+TXN-1012,2026-02-03,Laura Croft,West,Furniture,Filing Cabinet,1,180.0,180.0,Bank Transfer
+TXN-1013,2026-02-05,Michael Scott,North,Office Supplies,Paper Reams (Case),10,35.0,350.0,Credit Card
+TXN-1014,2026-02-08,Nina Nina,South,Electronics,Bluetooth Speaker,2,59.99,119.98,Debit Card
+TXN-1015,2026-02-10,Oscar Martinez,East,Office Supplies,Monitor Stand,2,42.0,84.0,Credit Card
+TXN-1016,2026-02-12,Pam Beesly,West,Furniture,Desk Lamp,3,25.0,75.0,PayPal
+TXN-1017,2026-02-15,Quentin Tarantino,North,Electronics,External SSD 1TB,1,109.99,109.99,Credit Card
+TXN-1018,2026-02-18,Rachel Green,South,Furniture,Executive Chair,1,320.0,320.0,Apple Pay
+TXN-1019,2026-02-20,Steve Rogers,East,Electronics,Wireless Mouse,3,29.5,88.5,Credit Card
+TXN-1020,2026-02-22,Tony Stark,West,Electronics,Dual Monitor Arm,2,95.0,190.0,Credit Card
