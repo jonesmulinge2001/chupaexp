@@ -8,3 +8,5 @@ urlspatterns = [
     path('products/', views.ProductListView.as_view(), name='product_list'),
     path('products/<slug:slug>/', views.ProductDetailView.as_view(), name='product_detail')
 ]
+
+# localhost:8000/categories/best-beer/
